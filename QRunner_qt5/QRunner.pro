@@ -29,5 +29,5 @@ SOURCES =   main.cpp \
             texteditmonitor.cpp \
             monitorview.cpp \
             settings.cpp
-TRANSLATIONS =   qrunner_it.ts
+TRANSLATIONS =   qrunner_it.ts qrunner_de.ts qrunner_fr.ts
 RESOURCES =   qrunner.qrc
