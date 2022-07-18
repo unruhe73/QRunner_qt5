@@ -1,0 +1,11 @@
+QRunner_qt5/QRunner.pro.user*
+QRunner_qt5/*.o
+QRunner_qt5/*.so
+QRunner_qt5/moc_*.cpp
+QRunner_qt5/QRunner
+QRunner_qt5/Makefile
+QRunner_qt5/.qmake.stash
+QRunner_qt5/documentation/
+QRunner_qt5/linux-script/
+QRunner_qt5/win32-script/
+.git/
